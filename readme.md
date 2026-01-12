@@ -7,6 +7,9 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 
+## My upcoming projects
+* KristalModManager (KMM) - A simple mod manager for the Kristal DELTARUNE engine - Will be written in Python at first before moving to a more well known and professional language like C#/C++
+
 ## Some of my friends!
 * exyvt <3: https://sites.google.com/view/exyvt
 * Aliorio: https://aliorio.carrd.co
