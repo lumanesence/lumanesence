@@ -2,7 +2,7 @@
 
 Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, really? I'm just a really simple guy that makes stuff online!
 
-## Current posistions
+## Current positions
 * Managing Director at The OneLyte Association
 * Level 1 Vocational IT Student at London South East Colleges
 
