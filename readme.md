@@ -8,7 +8,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 ## Current positions
 * Managing Director at The OneLyte Association and a-amu
 * Level 1 IT Student at London South East Colleges (Currently Awaiting Course Changeover)
-* Ticket Moderator for ONCE.app
+* Ticket and Discord Moderator for ONCE.app
 
 ## Current interests
 * Nintendo Switch modding (though I kind of suck at it x_x)
