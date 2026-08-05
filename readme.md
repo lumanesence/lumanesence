@@ -8,7 +8,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 ## Current positions
 * Managing Director at The OneLyte Association and a-amu
 * Level 1 IT Student at London South East Colleges (Currently Awaiting Course Changeover)
-* Voluntary Tester for ONCE.app
+* Ticket Moderator for ONCE.app
 
 ## Current interests
 * Nintendo Switch modding (though I kind of suck at it x_x)
@@ -22,8 +22,8 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 ## What I use on a day to day basis
 * Main Phone: Honor X6C
 * Backup Phone: Microsoft Lumia 640 LTE
-* Main Workstation: Dell OptiPlex 990 SSF (running Windows 11 LTSC)
-* Backup Workstation: Lenovo ThinkCentre M73 Tiny (running Google ChromeOS Flex)
+* Main Workstation: Lenovo ThinkCentre M73 Tiny (running KDE Neon 6.7.3)
+* Server: Dell OptiPlex 790 DT (running Proxmox Virtual Environment 9.2.2)
 * Main Laptop: Lenovo ThinkPad E580 (running Windows 10 22H2)
 * Backup Laptop: Lenovo v130-14ikb 81HQ (running Google ChromeOS Flex)
 * Watch: OPPO Watch Free
