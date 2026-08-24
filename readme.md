@@ -22,10 +22,11 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 ## What I use on a day to day basis
 * Main Phone: Honor X6C
 * Backup Phone: Microsoft Lumia 640 LTE
-* Main Workstation: Lenovo ThinkCentre M73 Tiny (running KDE Neon 6.7.3)
+* Main Workstation: Lenovo ThinkCentre M73 Tiny (running Windows 10 22H2)
 * Server: Dell OptiPlex 790 DT (running Proxmox Virtual Environment 9.2.2)
 * Main Laptop: Lenovo ThinkPad E580 (running Windows 10 22H2)
 * Backup Laptop: Lenovo v130-14ikb 81HQ (running Google ChromeOS Flex)
+* Main Tablet: Lenovo IdeaPad Chromebook Duet Generation 1 (running Google ChromeOS)
 * Watch: OPPO Watch Free
 
 
